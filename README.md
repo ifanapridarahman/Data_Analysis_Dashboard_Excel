@@ -1,36 +1,36 @@
-# Pizza_Sales_Analysis (Interactive Dashboard creation using Microsoft Excel)
-## Project Objective
-I need to analyze key indicators for our pizza sales data to gain insight into our business performance. Specifically, I want to calculate the following metrics
+# Pizza_Sales_Analysis (Pembuatan Dashboard Interaktif dengan Menggunakan Microsoft Excel)
+## Tujuan Projek
+Saya perlu menganalisis indikator utama dari data penjualan pizza untuk mendapatkan wawasan tentang kinerja bisnis. 
 
-## Dataset Used
+## Dataset yang Digunakan
 - <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/pizza_sales.xlsx">Dataset</a>
 
-## KPI's Requirement
+## Persyaratan KPI
 
-1. **Total Revenue** : The sum of the total price of all pizza orders
-2. **Average Order Values** : The average amount spent per order, calculated by dividing the total revenue by the total number of orders
-3. **Total Pizzas Sold** : The sum of the quantities of all pizzas sold
-4. **Total Orders** : The total number of orders placed
-5. **Average Pizzas Per Order** : The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders
+1. **Total Pendapatan (_Total Revenue_)** : Jumlah total harga dari semua pesanan pizza
+2. **Rata-Rata Nilai Pemesanan (_Average Order Values_)** : Rata-rata jumlah yang dibelanjakan per pesanan, dihitung dengan membagi total pendapatan dengan total jumlah pesanan.
+3. **Total Pizza Terjual (_Total Pizzas Sold_)** : Jumlah total dari semua pizza yang terjual
+4. **Total Pesanan (_Total Orders_)** : Jumlah pesanan yang dilakukan.
+6. **Rata-Rata Pizza Per Pesanan (_Average Pizzas Per Order_)** : Rata-rata jumlah pizza per pesanan, dihitung dengan membagi total pizza terjual dengan total jumlah pesanan.
 
-## Chart Requirement
-I would like to visualize various aspects of our pizza sales data to gain insight and understand key trends. I have identified the following requirements for creating charts.
-1. **Daily Trend for Total Orders:** 
-Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us any patterns of fluctuations in order volumes on a daily basis.
-2. **Monthly Trend for Total Orders**
-Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high order activity
-3. **Percentage of Sales by Pizza Category**
-Create a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insight into the popularity of various pizza categories and their contribution to overall sales
-4. **Percentage of Sales by Pizza Size**
-Generate a pie chart that represents the percentage of sales attributed to different pizza size. This chart will help us understand customer preferences for pizza size and their impact on sales
-5. **Total Pizzas Sold by Pizza Category**
-Create a funnel chart that presents the total number of pizzas sold for each pizza category. This chart will allow us to compare the sales performance of different pizza category
-6. **Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders**
-Create a bar chart highlighting the top 5 best-selling pizzas based on the Revenue, Total Quantity, and Total Orders. This chart help us identify the most popular pizza options.
-7. **Bottom 5 Worst Seller by Revenue, Total Quantity, and Total Orders**
-Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, Total Quantity, and Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
+## Persyaratan Grafik
+Saya ingin memvisualkan berbagai aspek dari data penjualan pizza untuk mendapatkan wawasan dan memahami tren utama. Saya telah mengidentifikasi persyaratan berikut untuk pembuatan grafik.
+1. **Tren Harian untuk Total Pesanan (_Daily Trend for Total Orders_):** 
+Buat diagram batang yang menampilkan tren harian dari total pesanan dalam periode waktu tertentu. Grafik ini akan membantu dalam mengidentifikasi pola fluktuasi dalam volume pesanan secara harian.
+2. **Tren Bulanan untuk Total Pesanan (_Monthly Trend for Total Orders_)**
+Buat diagram garis yang menggambarkan tren pesanan berdasarkan jam sepanjang hari. Grafik ini akan memungkinkan kami mengidentifikasi jam sibuk atau periode dengan aktivitas pesanan yang tinggi.
+3. **Persentase Penjualan berdasarkan Kategori Pizza (_Percentage of Sales by Pizza Category_)**
+Buat diagram pie yang menunjukkan distribusi penjualan di berbagai kategori pizza. Grafik ini akan memberikan wawasan tentang popularitas setiap kategori pizza serta kontribusinya terhadap total penjualan.
+4. **Persentase Penjualan berdasarkan Ukuran Pizza (_Percentage of Sales by Pizza Size_)**
+Buat diagram pie yang menampilkan persentase penjualan berdasarkan ukuran pizza. Grafik ini akan membantu kita memahami preferensi pelanggan terhadap ukuran pizza dan dampaknya terhadap penjualan.
+5. **Total Pizza Terjual berdasarkan Kategori Pizza (_Total Pizzas Sold by Pizza Category_)**
+Buat diagram funnel yang menampilkan jumlah total pizza yang terjual untuk setiap kategori pizza. Grafik ini memungkinkan kita membandingkan kinerja penjualan antar kategori pizza.
+6. **5 Pizza Terlaris berdasarkan Pendapatan, Jumlah Terjual, dan Total Pesanan (_Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders_)**
+Buat diagram batang yang menyoroti 5 pizza terlaris berdasarkan pendapatan, jumlah total yang terjual, dan total pesanan. Grafik ini membantu mengidentifikasi pilihan pizza yang paling populer.
+7. **5 Pizza dengan Penjualan Terendah berdasarkan Pendapatan, Jumlah Terjual, dan Total Pesanan (_Bottom 5 Worst Seller by Revenue, Total Quantity, and Total Orders_)**
+Buat diagram batang yang menampilkan 5 pizza dengan penjualan terendah berdasarkan pendapatan, jumlah total yang terjual, dan total pesanan. Grafik ini memungkinkan kita mengidentifikasi pizza dengan performa terendah atau kurang diminati pelanggan.
 
-## Dahsboard Interaction
+## Interaksi Dahsboard
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/pizza_sales.xlsx">View Dashboard</a>
 
 ## Dashboard
@@ -38,13 +38,13 @@ Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, 
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/Dashboar%20Pizza%20Sales.png">Dashboard</a>
 ![Dashboar Pizza Sales](https://github.com/user-attachments/assets/447295bc-a866-43c8-9284-cd32d4140b29)
 
-## Project Insight
-1. **Order Trends by Days** :Orders are highest on weekends, especially on Friday/Saturday evenings
-2. **Order Trends by Times** :The highest number of orders occur between 12:00 - 1:00 PM and 5:00 - 8:00 PM
-3. **Top-Selling Category** : The Classic category contributes the most to total sales and order
-4. **Best-Selling Size** : Large size pizza generate the highest revenue
-5. **Top-Selling Pizzas** : Classic deluxe & chicken pizzas are the best sellers and main revenue drivers
-6. **Lowest-Performing Pizzas** : The Bire Carre ranks the lowest in both orders and revenue
+## Wawasan Projek
+1. **Tren Pesanan Berdasarkan Hari (_Order Trends by Days_)** : Pesanan mencapai puncaknya pada akhir pekan, terutama Jumat dan Sabtu malam.
+2. **Tren Pesanan Berdasarkan Waktu (_Order Trends by Times_)** :Tumlah pesanan tertinggi terjadi antara pukul 12:00–13:00 dan 17:00–20:00.
+3. **Kategori Terlaris (_Top-Selling Category_)** : Kategori Classic berkontribusi paling besar terhadap total penjualan dan jumlah pesanan.
+4. **Ukuran Terlaris (_Best-Selling Size_)** : Pizza Large menghasilkan pendapatan tertinggi.
+5. **Pizza Terlaris (_Top-Selling Pizzas_)** : Classic Deluxe dan Chicken adalah yang paling banyak terjual dan menjadi penyumbang utama pendapatan.
+6. **Pizza dengan Performa Terendah (_Lowest-Performing Pizzas_)** : The Bire Carre memiliki jumlah pesanan dan pendapatan terendah.
 
 
 
