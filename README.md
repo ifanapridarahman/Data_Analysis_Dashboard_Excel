@@ -38,6 +38,14 @@ Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, 
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/Dashboar%20Pizza%20Sales.png">Dashboard</a>
 ![Dashboar Pizza Sales](https://github.com/user-attachments/assets/447295bc-a866-43c8-9284-cd32d4140b29)
 
+## Project Insight
+1. **Days** :Orders are **highest** on weekends, **Friday/Saturday** evenings
+2. **Times** :There are **maximum** orders from 12-01 pm & after 5-8 pm
+3. **Category** : **Classic** category contributes to **maximum** sales and total order
+4. **Size** : **Large size** pizza contribute to **maximum** sales
+5. **Best** : **Classic deluxe & chicken** pizzas are the sellers and revenue generators
+6. **Worst** : **The Bire Carre** is at the bottom in both orders and revenue
+
 
 
 
