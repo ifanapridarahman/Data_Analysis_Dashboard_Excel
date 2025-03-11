@@ -34,6 +34,7 @@ Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, 
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/pizza_sales.xlsx">View Dashboard</a>
 
 ## Dashboard
+![Dashboar Pizza Sales](https://github.com/user-attachments/assets/447295bc-a866-43c8-9284-cd32d4140b29)
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/Dashboar%20Pizza%20Sales.png">Dashboard</a>
 
 
