@@ -6,6 +6,7 @@ I need to analyze key indicators for our pizza sales data to gain insight into o
 - <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/pizza_sales.xlsx">Dataset</a>
 
 ## KPI's Requirement
+
 1. **Total Revenue** : The sum of the total price of all pizza orders
 2. **Average Order Values** : The average amount spent per order, calculated by dividing the total revenue by the total number of orders
 3. **Total Pizzas Sold** : The sum of the quantities of all pizzas sold
@@ -13,6 +14,7 @@ I need to analyze key indicators for our pizza sales data to gain insight into o
 5. **Average Pizzas Per Order** : The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders
 
 ## Chart Requirement
+
 I would like to visualize various aspects of our pizza sales data to gain insight and understand key trends. I have identified the following requirements for creating charts.
 **1. Daily Trend for Total Orders:** 
 Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us any patterns of fluctuations in order volumes on a daily basis.
