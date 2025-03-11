@@ -39,12 +39,12 @@ Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, 
 ![Dashboar Pizza Sales](https://github.com/user-attachments/assets/447295bc-a866-43c8-9284-cd32d4140b29)
 
 ## Project Insight
-1. **Days** :Orders are **highest** on weekends, **Friday/Saturday** evenings
-2. **Times** :There are **maximum** orders from 12-01 pm & after 5-8 pm
-3. **Category** : **Classic** category contributes to **maximum** sales and total order
-4. **Size** : **Large size** pizza contribute to **maximum** sales
-5. **Best** : **Classic deluxe & chicken** pizzas are the sellers and revenue generators
-6. **Worst** : **The Bire Carre** is at the bottom in both orders and revenue
+1. **Order Trends by Days** :Orders are highest on weekends, especially on Friday/Saturday evenings
+2. **Order Trends by Times** :The highest number of orders occur between 12:00 - 1:00 PM and 5:00 - 8:00 PM
+3. **Top-Selling Category** : The Classic category contributes the most to total sales and order
+4. **Best-Selling Size** : Large size pizza generate the highest revenue
+5. **Top-Selling Pizzas** : Classic deluxe & chicken pizzas are the best sellers and main revenue drivers
+6. **Lowest-Performing Pizzas** : The Bire Carre ranks the lowest in both orders and revenue
 
 
 
