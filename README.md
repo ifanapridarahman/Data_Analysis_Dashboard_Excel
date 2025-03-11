@@ -1,2 +1,3 @@
-# Data_Analysis_Dashboard_Excel
-I developed a comprehensive project in Excel, creating multiple dashboard and table to analyze the data. This process involved several stages, including data processing, data cleaning, and data visualization
+# Pizza_Sales_Analysis
+## Project Objective
+I need to analyze key indicators for our pizza sales data to gain insight into our business performance. Specifically, I want to calculate the following metrics
