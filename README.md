@@ -30,5 +30,12 @@ Create a bar chart highlighting the top 5 best-selling pizzas based on the Reven
 7. **Bottom 5 Worst Seller by Revenue, Total Quantity, and Total Orders**
 Create a bar chart showcasing the bottom t worst-selling pizzas on the Revenue, Total Quantity, and Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 
+## Dahsboard Interaction
+<a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/pizza_sales.xlsx">View Dashboard</a>
+
+## Dashboard
+<a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/Dashboar%20Pizza%20Sales.png">Dashboard</a>
+
+
 
 
