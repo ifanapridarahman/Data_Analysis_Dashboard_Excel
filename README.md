@@ -38,14 +38,16 @@ Buat diagram batang yang menampilkan 5 pizza dengan penjualan terendah berdasark
 <a href="https://github.com/ifanapridarahman/Data_Analysis_Dashboard_Excel/blob/main/Dashboar%20Pizza%20Sales.png">Dashboard</a>
 ![Dashboar Pizza Sales](https://github.com/user-attachments/assets/447295bc-a866-43c8-9284-cd32d4140b29)
 
-## Wawasan Projek
-1. **Tren Pesanan Berdasarkan Hari (_Order Trends by Days_)** : Pesanan mencapai puncaknya pada akhir pekan, terutama Jumat dan Sabtu malam.
-2. **Tren Pesanan Berdasarkan Waktu (_Order Trends by Times_)** :Tumlah pesanan tertinggi terjadi antara pukul 12:00–13:00 dan 17:00–20:00.
-3. **Kategori Terlaris (_Top-Selling Category_)** : Kategori Classic berkontribusi paling besar terhadap total penjualan dan jumlah pesanan.
-4. **Ukuran Terlaris (_Best-Selling Size_)** : Pizza Large menghasilkan pendapatan tertinggi.
+## Insight
+1. **Tren Pesanan Berdasarkan Hari dan Waktu** : Pesanan mencapai puncaknya pada akhir pekan, terutama Jumat dan Sabtu malam dan jumlah pesanan tertinggi terjadi antara pukul 12:00–13:00 dan 17:00–20:00.
+- **Insight** : Restoran dapat menyiapkan lebih banyak stok dan tenaga kerja saat jam-jam sibuk untuk meningkatkan efisiensi operasional dan promosi spesial dapat ditargetkan pada hari kerja untuk meningkatkan penjualan di hari yang sepi.
+2. **Kategori Pizza Terlaris**
+- **Insight** : Kategori Classic dan Chicken berkontribusi paling besar terhadap penjualan -> Bisa dipertimbangkan untuk promosi dan varian baru dalam kategori ini.
+3. **Ukuran Pizza Terlaris**
+- **Insight** : Pizza ukruan Regular & Large lebih diminati pelanggan -> Bisa jadi lebih sesuai dengan kebutuhan pelanggan untuk porsi standar. Sedangkan Pizza ukuran X-Large dan XX-Large memiliki kontribusi kecil -> Mungkin bisa dibuat promo paket keluarga atau diskon untuk meningkatkan permintaan.
 5. **Pizza Terlaris (_Top-Selling Pizzas_)** : Classic Deluxe dan Chicken adalah yang paling banyak terjual dan menjadi penyumbang utama pendapatan.
 6. **Pizza dengan Performa Terendah (_Lowest-Performing Pizzas_)** : The Bire Carre memiliki jumlah pesanan dan pendapatan terendah.
-
+- **Insight** : Mungkin karena tidak sesuai dengan selera pelanggan. Bisa dievaluasi kembali atau diberikan promo diskon untuk menarik pembeli
 
 
 
