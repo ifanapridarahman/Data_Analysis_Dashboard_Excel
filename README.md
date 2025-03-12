@@ -49,6 +49,20 @@ Buat diagram batang yang menampilkan 5 pizza dengan penjualan terendah berdasark
 6. **Pizza dengan Performa Terendah (_Lowest-Performing Pizzas_)** : The Bire Carre memiliki jumlah pesanan dan pendapatan terendah.
 - **Insight** : Mungkin karena tidak sesuai dengan selera pelanggan. Bisa dievaluasi kembali atau diberikan promo diskon untuk menarik pembeli
 
+## Kesimpulan dan Rekomendasi
+1. **Optimalkan Jam & Hari Sibuk**
+- Persiapkan lebih banyak stok dan tenaga kerja di hari Jumat & Sabtu, terutama pada jam 12:00 - 13:00 dan 17:00 - 20:00
+- Buat promosi di hari biasa untuk meningkatkan penjualan di hari yang lebih sepi
+2. **Fokus pada Kategori & Ukuran Pizza Favorit**
+- Pizza Kategori Chicken & Classic mendominasi -> Bisa dibuat varian baru atau promo khusus
+- Pizza ukuran Regular & Large paling diminati -> Pastikan stok ukuran ini selalu tersedia
+3. **Evaluasi Produk dengan Penjualan Terendah**
+- Brie Carre Pizza memiliki penjualan terendah -> Bisa dikaji ulang atau diberikan promosi khusus
+- Bisa juga dilakukan survei pelanggan untuk memahami mengapa beberapa pizza kurang diminati
+4. **Strategi Promosi dan Upselling**
+- Bundle Deals : Misalnya paket "Friday Family Feast" dengan kombinasi pizza best-seller
+- Diskon untuk ukuran besar : Meningkatkan penjualan X-Large & XX-Large dengan promosi beli 1 gratis 1 atau diskon keluarga
+
 
 
 
